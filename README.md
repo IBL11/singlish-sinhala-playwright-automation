@@ -1,4 +1,4 @@
-# IT23347762_ASSIGNMENT_1
+# Singlish_Sinhala_Playwright_Automation - Assignment_1 ( IT3040-ITPM )
 
 ## Project Overview
 
@@ -97,8 +97,6 @@ Open a terminal or command prompt and run:
 git clone <https://github.com/IBL11/singlish-sinhala-playwright-automation.git>
 cd IT23347762_ASSIGNMENT_1
 ```
-
-> Replace `<https://github.com/IBL11/singlish-sinhala-playwright-automation.git>` with the actual GitHub repository URL.
 
 ---
 
@@ -318,4 +316,5 @@ node scripts/excel-to-json.js
 **IT23347762 - Bhagya N L I**
 
 ---
+
 
