@@ -94,11 +94,11 @@ Follow the steps below carefully to set up and run the project from scratch.
 Open a terminal or command prompt and run:
 
 ```bash
-git clone <repository-url>
+git clone <https://github.com/IBL11/singlish-sinhala-playwright-automation.git>
 cd IT23347762_ASSIGNMENT_1
 ```
 
-> Replace `<repository-url>` with the actual GitHub repository URL.
+> Replace `<https://github.com/IBL11/singlish-sinhala-playwright-automation.git>` with the actual GitHub repository URL.
 
 ---
 
@@ -318,3 +318,4 @@ node scripts/excel-to-json.js
 **IT23347762 - Bhagya N L I**
 
 ---
+
